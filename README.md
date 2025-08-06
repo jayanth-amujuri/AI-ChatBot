@@ -32,9 +32,13 @@ An AI-powered chatbot built with Streamlit, LangChain, FAISS, and Ollama to answ
 chatbot/
 │
 ├── club_info.txt # Knowledge base (your club info)
+
 ├── chatbot.py # Main chatbot app (Streamlit + LangChain)
+
 |── ollama.py #For testing the ollamma is installed or not
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
