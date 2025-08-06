@@ -1,0 +1,9 @@
+streamlit
+langchain>=0.2.0
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+
+
+# Install Ollama from its official website
