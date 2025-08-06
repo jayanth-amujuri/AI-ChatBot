@@ -1,0 +1,19 @@
+Icon Coderz is an inter-college coding competition hosted by the�SRKR Coding Club�at�Sagi Rama Krishnam Raju Engineering College (Autonomous), Bhimavaram, Andhra Pradesh.This event is designed to test and enhance the programming skills of students across all years, with two levels of participation: Beginner Level for 1st and 2nd-year students and Expert Level for 3rd and 4th-year students.
+The competition provides a platform for students to showcase their coding expertise while solving challenging problems and competing against peers. Icon Coderz fosters creativity, collaboration, and innovation, encouraging participants to think critically and develop efficient solutions. Whether you're an experienced programmer or new to coding, this event is a fantastic opportunity to learn, compete, and gain recognition as an outstanding coder.
+The competition is open to all college students, regardless of their institution. The eligibility is divided into two levels: Beginner Level: For 1st and 2nd-year students. Expert Level: For 3rd and 4th-year students.
+Registration details will be shared on the official event website. Participants typically need to fill out a registration form and submit it before the deadline.
+And it is the official website link for the coding club : https://www.srkrcodingclub.in/
+The competition will feature coding problems that test your problem-solving and algorithmic skills. The problems will range from basic programming concepts to more advanced topics like data structures, algorithms, and computational thinking.
+
+Icon Coderz is usually an individual competition. Participants will be required to solve problems on their own, showcasing their individual programming and problem-solving skills.
+Common programming languages like C, C++, Java, Python, and others are typically allowed. Specific details regarding language support will be provided in the competition guidelines. Make sure to review the rules before starting the contest to confirm which languages are permitted.
+Yes, participants will receive certificates for their participation in Icon Coderz. Additionally, top performers may receive special recognition or awards based on their performance in the competition.
+
+There will not be any official practice rounds or mock contests before the actual competition. However, participants are encouraged to practice on their own using online coding platforms to prepare for the event. Keep an eye on announcements for any additional resources or updates.
+
+Winners will be determined based on the leaderboard results
+Participants can reach out for any inquiries via email at srkrcodingclub@gmail.com. Alternatively, they can contact us directly by phone: - P.Yogendra: +91 9492100941 - CH Likitha: +91 8688545819 - P.Ankith: +91 9100579797 - S Harshavardhan: +91 9703663860 Feel free to reach out, and we're here to help you with any questions or concerns you might have.
+
+Yes, you can follow our Instagram handle for event updates: https://www.instagram.com/srkr_coding_club?igsh=MTVycDY4cGs3d3I0ZA==
+The registration fee for participating in Icon Coderz is ?100. However, there is a 50% discount for SRKR Coding Club affiliates.
+No, you can only participate in one level based on your year of study. If you're in the 1st or 2nd year, you must participate in the Beginner Level, and if you're in the 3rd or 4th year, you must compete in the Expert Level.
